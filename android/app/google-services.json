@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460932443224",
+    "project_id": "sample-5f755",
+    "storage_bucket": "sample-5f755.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460932443224:android:1d4afffa278550883bae2d",
+        "android_client_info": {
+          "package_name": "com.example.eigital_sample_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460932443224-nsmb4frtn926rebdcrh08fhssh5rv2gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYMLbVb6HH1GmJ0ijwmazsk3NDZ1t2t_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460932443224-nsmb4frtn926rebdcrh08fhssh5rv2gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
